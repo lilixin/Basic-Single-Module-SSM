@@ -1,4 +1,4 @@
-package com.youmeek.ssm;
+package com.jason.ssm;
 
 import com.jason.ssm.module.user.pojo.SysUser;
 import com.jason.ssm.module.user.service.SysUserService;
