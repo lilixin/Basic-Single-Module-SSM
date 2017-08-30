@@ -1,7 +1,7 @@
 package com.youmeek.ssm;
 
-import com.youmeek.ssm.module.user.pojo.SysUser;
-import com.youmeek.ssm.module.user.service.SysUserService;
+import com.jason.ssm.module.user.pojo.SysUser;
+import com.jason.ssm.module.user.service.SysUserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;

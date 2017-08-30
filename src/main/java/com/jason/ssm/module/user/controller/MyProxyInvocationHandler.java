@@ -1,4 +1,4 @@
-package com.youmeek.ssm.module.user.controller;
+package com.jason.ssm.module.user.controller;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

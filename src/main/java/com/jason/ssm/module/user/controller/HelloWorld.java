@@ -1,4 +1,4 @@
-package com.youmeek.ssm.module.user.controller;
+package com.jason.ssm.module.user.controller;
 
 /**
  * Created by lilixin on 29/08/2017.

@@ -1,7 +1,7 @@
-package com.youmeek.ssm.module.user.mapper;
+package com.jason.ssm.module.user.mapper;
 
 
-import com.youmeek.ssm.module.user.pojo.SysUser;
+import com.jason.ssm.module.user.pojo.SysUser;
 
 public interface SysUserMapper {
     /**

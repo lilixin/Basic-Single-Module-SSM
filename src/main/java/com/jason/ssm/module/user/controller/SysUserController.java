@@ -1,7 +1,7 @@
-package com.youmeek.ssm.module.user.controller;
+package com.jason.ssm.module.user.controller;
 
-import com.youmeek.ssm.module.user.pojo.SysUser;
-import com.youmeek.ssm.module.user.service.SysUserService;
+import com.jason.ssm.module.user.pojo.SysUser;
+import com.jason.ssm.module.user.service.SysUserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
